@@ -35,7 +35,7 @@ A high-performance, **local-first** text comparison tool designed specifically f
 
 1. **Clone the project**:
    ```bash
-   git clone https://github.com/your-username/PureNovel.git
+   git clone https://github.com/madokaisbest/PureNovel.git
    cd PureNovel/frontend
    ```
 
