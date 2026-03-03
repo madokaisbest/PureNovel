@@ -3,8 +3,8 @@ import { getT } from '../lib/i18n';
 
 export default function ScoreCard({ score, stats, lang }) {
     const t = useMemo(() => getT(lang), [lang]);
-    const cls = score >= 80 ? 'high' : score >= 50 ? 'mid' : 'low';
-    const verdict = score >= 80 ? t('highSim') : score >= 50 ? t('midSim') : t('lowSim');
+    const cls = score >= 95 ? 'high' : score >= 80 ? 'mid' : 'low';
+    const verdict = score >= 95 ? t('highSim') : score >= 80 ? t('midSim') : t('lowSim');
     const { w1, c1, w2, c2 } = stats;
 
     return (
