@@ -2,7 +2,7 @@
 
 English | [简体中文](./README.md)
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-A78BFA?style=for-the-badge&logo=cloudflare&logoColor=white)](https://pure-novel.pages.dev/)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-A78BFA?style=for-the-badge&logo=cloudflare&logoColor=white)](https://purenovel.pages.dev/)
 
 A high-performance, **local-first** text comparison tool designed specifically for novel enthusiasts and book proofreaders.
 

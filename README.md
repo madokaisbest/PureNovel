@@ -2,7 +2,7 @@
 
 [English Version](./README_EN.md) | 简体中文
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-A78BFA?style=for-the-badge&logo=cloudflare&logoColor=white)](https://pure-novel.pages.dev/)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-A78BFA?style=for-the-badge&logo=cloudflare&logoColor=white)](https://purenovel.pages.dev/)
 
 一个专为小说爱好者和文档校对者设计的**极致性能、本地优先**的文本比对工具。
 
