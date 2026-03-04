@@ -6,8 +6,6 @@
 
 一个专为小说爱好者和文档校对者设计的**极致性能、本地优先**的文本比对工具。
 
-![PureNovel UI](https://via.placeholder.com/800x450/141432/A78BFA?text=PureNovel+-+Text+Comparison+Tool)
-
 ## 📖 项目简介
 
 **PureNovel** 旨在解决由于从不同网站下载的小说版本不一带来的校对难题。通过**文件格式归一化 (Normalization)** 和**多线程并行计算 (Parallel Computing)**，它能精准识别出不同版本间的章节差异、文字增删以及可能存在的广告干扰，且所有操作均在浏览器本地完成，确保隐私安全。

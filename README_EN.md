@@ -6,8 +6,6 @@ English | [简体中文](./README.md)
 
 A high-performance, **local-first** text comparison tool designed specifically for novel enthusiasts and book proofreaders.
 
-![PureNovel UI](https://via.placeholder.com/800x450/141432/A78BFA?text=PureNovel+-+Text+Comparison+Tool)
-
 ## 📖 Introduction
 
 **PureNovel** addresses the challenges of proofreading novels downloaded from various sources (where versions often differ due to ads, metadata, or formatting). Through **Format Normalization** and **Parallel Computing**, it precisely identifies differences in chapters and text while stripping away clutter—all within your browser to ensure 100% privacy.
